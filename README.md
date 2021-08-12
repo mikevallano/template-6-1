@@ -22,6 +22,7 @@ clone into a different folder, follow steps to rename the app, then move it wher
 - `bundle`
 - `rake db:create`
 - `rake db:migrate`
+- `yarn`
 
 ### Change git remote
 - Go to Github and create a new repo for the new project. Then you'll set the remote.
