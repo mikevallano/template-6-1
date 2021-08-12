@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Starter template for Rails 6.1 with the basics needed to get something up and running:
 
-Things you may want to cover:
+- Bootstrap
+- Basic nav bar
+- Devise
+- Rspec and FactoryBot
 
-* Ruby version
+* Ruby version: 3.0.0
 
-* System dependencies
+* Database creation: rails db:create
 
-* Configuration
+* Database initialization: rails db:migrate
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* How to run the test suite: rsepc
