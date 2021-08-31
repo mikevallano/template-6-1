@@ -24,6 +24,8 @@ clone into a different folder, follow steps to rename the app, then move it wher
 - `rails db:migrate`
 - `yarn`
 
+**Set up the github remote (next step) before proceeding**
+
 ### Change git remote
 - **Go to Github and create a new repo** for the new project. Then you'll set the remote.
 - `git remote -v` (will show the fetch and push remotes)
