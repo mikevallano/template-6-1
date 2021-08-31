@@ -25,7 +25,7 @@ clone into a different folder, follow steps to rename the app, then move it wher
 - `yarn`
 
 ### Change git remote
-- Go to Github and create a new repo for the new project. Then you'll set the remote.
+- **Go to Github and create a new repo** for the new project. Then you'll set the remote.
 - `git remote -v` (will show the fetch and push remotes)
 Set the new remote URL:
 - `git remote set-url origin git@github.com:[your-user-name/new-project-name.git]`
