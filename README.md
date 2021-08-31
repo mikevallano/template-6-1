@@ -20,8 +20,8 @@ clone into a different folder, follow steps to rename the app, then move it wher
 - Rename the necessary files in the application. (grep the app for `template` case _insensitive_, and update accordingly)
 
 - `bundle`
-- `rake db:create`
-- `rake db:migrate`
+- `rails db:create`
+- `rails db:migrate`
 - `yarn`
 
 ### Change git remote
