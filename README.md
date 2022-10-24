@@ -32,4 +32,4 @@ clone into a different folder, follow steps to rename the app, then move it wher
 Set the new remote URL:
 - `git remote set-url origin git@github.com:[your-user-name/new-project-name.git]`
 - git remote -v to confirm
-- git push origin main
+- git push origin main (main need to force push)
